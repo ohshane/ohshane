@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shane
-- 👀 I’m interested in ML/DL
+- 👀 I’m interested in Neural Nets
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me is here! this.shaneoh@gmail.com
 
 <!---
