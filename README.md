@@ -2,7 +2,10 @@
 - 👀 I’m interested in Neural Nets
 - 🌱 I’m currently learning MLOps
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 How to reach me is here! this.shaneoh@gmail.com
+- 📫 How to reach me is here! ohshane71@gmail.com
+
+![beta](https://github.com/ohshane/ohshane/assets/29338355/b2050e81-9c28-4c1e-ad0f-1382a18bbce4)
+
 
 <!---
 ohshane/ohshane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
