@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shane
-- 👀 I’m interested in Machine learning and Deep learning! + also learning by visualizing 🥰
+- 👀 I’m interested in Machine learning and Deep learning!
+- 🤔 I like to think both algebraically and geometically
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me is here! ohshane71@gmail.com
 
