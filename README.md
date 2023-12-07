@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shane
-- 👀 I’m interested in Neural Nets
-- 🌱 I’m currently learning MLOps
+- 👀 I’m interested in Machine learning and Deep learning! + also learning by visualizing 🥰
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me is here! ohshane71@gmail.com
 
